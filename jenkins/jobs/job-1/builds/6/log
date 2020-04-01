@@ -1,0 +1,12 @@
+Started by user [8mha:////4BbGBFUBdFj/l5G5u4QXWA4jJzaWOwo4QZ714IZRoufzAAAAlx+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAzWEgZu/dLi1CL9xJTczDwAj6GcLcAAAAA=[0madmin
+Running as SYSTEM
+Building in workspace /var/lib/jenkins/workspace/job-1
+[job-1] $ /bin/sh -xe /tmp/jenkins2887202632779400438.sh
++ echo 'This is a test job'
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0
+curl: (26) couldn't open file "test.txt"
+[Slack Notifications] found #5 as previous completed, non-aborted build
+[Slack Notifications] will send OnSuccessNotification because build matches and user preferences allow it
+Finished: SUCCESS

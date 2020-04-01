@@ -1,0 +1,9 @@
+Started by user [8mha:////4BbGBFUBdFj/l5G5u4QXWA4jJzaWOwo4QZ714IZRoufzAAAAlx+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAzWEgZu/dLi1CL9xJTczDwAj6GcLcAAAAA=[0madmin
+Running as SYSTEM
+Building in workspace /var/lib/jenkins/workspace/job-1
+[job-1] $ /bin/sh -xe /tmp/jenkins469944441829213043.sh
++ echo 'This is a test job'
+{"ok":false,"error":"not_in_channel"}  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100   512    0    37  100   475    122   1573 --:--:-- --:--:-- --:--:--  1578
+Finished: SUCCESS
